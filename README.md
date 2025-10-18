@@ -7,9 +7,9 @@ WEB Penetration Testing Toolkit
 
 ```bash
 # Download the script
-wget https://yourserver.com/pentest.sh
+wget https://github.com/Ahmed4Shawky/CIPHERWeb/pentest.sh
 # OR
-curl -O https://yourserver.com/pentest.sh
+curl -O https://github.com/Ahmed4Shawky/CIPHERWeb/pentest.sh
 
 # Make it executable
 chmod +x pentest.sh
