@@ -1,7 +1,7 @@
 # CIPHERWeb
 WEB Penetration Testing Toolkit
 
-# 🔒 Penetration Testing Toolkit - Quick Start Guide
+# 🔒 Penetration Testing Toolkit 
 
 ## Installation
 
